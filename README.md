@@ -5,6 +5,7 @@
 **AI • Geo-Fencing • Blockchain-based Digital ID**
 
 Built for **Smart India Hackathon 2025** · Problem Statement **SIH25002**
+
 Theme: **Travel \& Tourism** · Team **Cognita**
 
 **- Built for SIH 2025**
