@@ -30,14 +30,23 @@ Terava addresses this with a hybrid approach: AI-driven risk scanning, ethical/p
 ### For Tourists
 
 * 🆘 **SOS / Emergency Button** — one-tap alert with live location, confirmation countdown, and auto-notify to emergency contacts and authorities
+  
 * 🤖 **Proactive SOS with real time data** — AI detects anomalous behaviour and can trigger alerts automatically before a user manually asks for help
+  
 * 🗺️ **Safety Zone Map** — interactive map (Leaflet) showing safe zones, police stations, hospitals, and live risk areas
+  
 * 📈 **AI Risk Predictions** — high-risk area prediction, anomaly detection, and crowd-density alerts with confidence scores
+  
 * 🪪 **Blockchain Digital ID** — tamper-proof, Ethereum-backed tourist registration as an alternative to standard sign-up
+  
 * 📇 **Emergency Contacts \& Evidence Vault** — manage trusted contacts and attach evidence (photos/files) to incident reports
+  
 * 🔐 **Multi-Factor Authentication** — email, SMS, and authenticator-app based MFA on login, SOS, and sensitive actions
+  
 * 🎙️ **Voice Assistant** — voice commands like "Help", "Emergency", "Show Map"
+  
 * 🌓 **Accessibility** — dark mode and high-contrast theme support
+  
 * 🔔 **Live Notifications \& Alert Log**
 
 ### For Government / Authorities
