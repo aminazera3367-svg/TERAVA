@@ -15,7 +15,7 @@ Theme: **Travel \& Tourism** · Team **Cognita**
 
 ## 📌 Overview
 
-Terava is a tourist-safety platform that combines **AI risk prediction**, **geo-fencing**, and a **blockchain-backed digital ID** to keep travelers safe and give authorities the tools to respond faster.
+Terava is a tourist-safety platform that combines **AI risk prediction**, **Geo-fencing**, and a **Blockchain-backed digital ID** to keep travelers safe and give authorities the tools to respond faster.
 
 Tourists get real-time risk alerts, one-tap SOS, and a tamper-proof digital identity. Government/police teams get a live incident dashboard, heatmaps, and analytics to coordinate emergency response — even in remote or crowded areas where connectivity is unreliable.
 
