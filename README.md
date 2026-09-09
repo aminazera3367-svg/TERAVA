@@ -117,5 +117,6 @@ Built for **Smart India Hackathon 2025**, Problem Statement ID **SIH25002**, The
 
 <div align="center">
 Made with ⚡ by Team Cognita for Smart India Hackathon 2025
+Continuously improving Terava to make travel safer for everyone.
 </div>
 
